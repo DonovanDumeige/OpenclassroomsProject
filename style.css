@@ -2,11 +2,14 @@ h1 {
 	color: red;
 }
 
-
 header {
 	color: green;
 }
 
 footer {
 	color: orange;
+}
+
+p {
+	font-size: 14px;
 }
